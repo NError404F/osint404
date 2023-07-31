@@ -18,3 +18,12 @@
 * Gather info on crypto wallets
 * Search if emails/password etc have been breached
 * General tool improvements
+
+# How to use
+### Go to the following websites and register for API keys, they are free but with limits, you can read more on their documentation
+
+* [Phone lookup API](https://veriphone.io)
+* [Address lookup API](https://veriphone.io/docs/v2)
+
+### then edit your .env file and next to the '=' symbol put your API keys accordingly
+
